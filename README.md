@@ -8,3 +8,5 @@ Charles Chen Data Science Portfolio
 * Classification Models
 * Model Comparison
 * Conclusion
+
+![](https://github.com/charleschen12/Charles_Portfolio/blob/master/images/project-1.png)
