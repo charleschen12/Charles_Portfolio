@@ -9,4 +9,4 @@ Charles Chen Data Science Portfolio
 * Model Comparison
 * Conclusion
 
-![](https://github.com/charleschen12/Charles_Portfolio/blob/master/images/project-1.png)
+![](/images/project-1.png)
