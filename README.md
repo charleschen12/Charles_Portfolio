@@ -21,3 +21,5 @@ Charles Chen Data Science Portfolio
 7. Handle Test Data
 8. Make predictions
 9. Output
+
+![](/images/project-2.png)
