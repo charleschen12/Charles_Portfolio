@@ -11,7 +11,7 @@ Charles Chen Data Science Portfolio
 
 ![](/images/project-1.png)
 
-# [Project 2: HOUSE PRICE REGRESSION]()
+# [Project 2: HOUSE PRICE REGRESSION](https://github.com/charleschen12/Project-2-code/blob/master/2nd-project-housing-rf.ipynb)
 1. Start the project by doing exploratory data analysis
 2. Look for missing values
 3. Create dummy variables
